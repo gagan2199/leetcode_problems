@@ -13,6 +13,9 @@ function trc(s, k) {
 };
 
 s = "Hello how are you Contestant", k = 4;
+m = "Hello how are you quiz Contestant ", n = 5;
 
 let ans=trc(s,k);
+let ans2=trc(s,n);
 console.log(ans);
+console.log(ans2);
