@@ -9,7 +9,7 @@ function rotate(nums, k) {
 };
 
 nums = [1,2,3,4,5,6,7], k = 3;
-nums2 = [1,0,3,4,5,6,7,0,0,0,6], l = 3;
+nums2 = [1,0,3,4,5,6,7,0,0,6], l = 3;
 
 rotate(nums,k);
 rotate(nums2,l);
