@@ -53,9 +53,9 @@ console.log(final_ans);
 // console.log(ans1);
 // console.log(ans2);
 
-// console.log(x+y)
-// let m=`${a[0]}${a[1]}${a[2]}`
-// let n=`${b[0]}${b[1]}${b[2]}`
+// console.log(x+y);
+// let m=`${a[0]}${a[1]}${a[2]}`;
+// let n=`${b[0]}${b[1]}${b[2]}`;
 
 // let x= parseInt(m);
 // let y= parseInt(n);
